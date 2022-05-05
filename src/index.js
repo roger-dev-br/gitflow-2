@@ -26,8 +26,8 @@ console.log(dividir(10,4));
 
 console.log("Hello World!")
 
-var a;
-var b;
+let a;
+let b;
 
 a = 1;
 b = 2;
